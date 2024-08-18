@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ZooApp2</string>
+    <string name="new_animal_title">New Animal</string>
+    <string name="confirm_delete">Confirm Delete?</string>
+    <string name="new_habitat_title">New Habitat</string>
+    <string name="main_initial_title">Zoo Monitoring System</string>
+    <string name="main_initial_prompt">Please select a menu</string>
+    <string name="main_animal_prompt">Please select an animal type</string>
+    <string name="main_add_animal">Add a New Animal</string>
+    <string name="main_habitat_prompt">Please select a biome</string>
+    <string name="main_add_habitat">Add a New Habitat</string>
+</resources>
